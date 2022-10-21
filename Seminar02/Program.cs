@@ -54,3 +54,10 @@
  
 //  bool CheckedDay = ItsHoliday(userDay);
 //  Console.WriteLine(CheckedDay);
+
+//Нахождения корня числа
+
+Console.Write("Введите ваше число : ");
+double num = Convert.ToDouble(Console.ReadLine());
+double result = Math.Sqrt(num);
+Console.Write($"Корень это числа {result}");
