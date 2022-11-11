@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miwan\\Desktop\\HomeWorkCSharp-1\\Seminar04\\Seminar04.csproj",
+      "projectUniqueName": "C:\\Users\\miwan\\OneDrive\\Рабочий стол\\HomeWorkCSharp\\Seminar04\\Seminar04.csproj",
       "projectName": "Seminar04",
-      "projectPath": "C:\\Users\\miwan\\Desktop\\HomeWorkCSharp-1\\Seminar04\\Seminar04.csproj",
+      "projectPath": "C:\\Users\\miwan\\OneDrive\\Рабочий стол\\HomeWorkCSharp\\Seminar04\\Seminar04.csproj",
       "packagesPath": "C:\\Users\\miwan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miwan\\Desktop\\HomeWorkCSharp-1\\Seminar04\\obj\\",
+      "outputPath": "C:\\Users\\miwan\\OneDrive\\Рабочий стол\\HomeWorkCSharp\\Seminar04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miwan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

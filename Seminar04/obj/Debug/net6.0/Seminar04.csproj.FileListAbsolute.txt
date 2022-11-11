@@ -13,3 +13,18 @@ C:\Users\miwan\Desktop\HomeWorkCSharp-1\Seminar04\obj\Debug\net6.0\refint\Semina
 C:\Users\miwan\Desktop\HomeWorkCSharp-1\Seminar04\obj\Debug\net6.0\Seminar04.pdb
 C:\Users\miwan\Desktop\HomeWorkCSharp-1\Seminar04\obj\Debug\net6.0\Seminar04.genruntimeconfig.cache
 C:\Users\miwan\Desktop\HomeWorkCSharp-1\Seminar04\obj\Debug\net6.0\ref\Seminar04.dll
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\obj\Debug\net6.0\Seminar04.csproj.AssemblyReference.cache
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\obj\Debug\net6.0\Seminar04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\obj\Debug\net6.0\Seminar04.AssemblyInfoInputs.cache
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\obj\Debug\net6.0\Seminar04.AssemblyInfo.cs
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\obj\Debug\net6.0\Seminar04.csproj.CoreCompileInputs.cache
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\obj\Debug\net6.0\Seminar04.dll
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\obj\Debug\net6.0\refint\Seminar04.dll
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\obj\Debug\net6.0\Seminar04.pdb
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\bin\Debug\net6.0\Seminar04.exe
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\bin\Debug\net6.0\Seminar04.deps.json
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\bin\Debug\net6.0\Seminar04.runtimeconfig.json
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\bin\Debug\net6.0\Seminar04.dll
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\bin\Debug\net6.0\Seminar04.pdb
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\obj\Debug\net6.0\Seminar04.genruntimeconfig.cache
+C:\Users\miwan\OneDrive\Рабочий стол\HomeWorkCSharp\Seminar04\obj\Debug\net6.0\ref\Seminar04.dll

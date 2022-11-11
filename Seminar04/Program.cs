@@ -44,18 +44,37 @@
 
 // Задача 29: Напишите программу, которая задаёт массив из m элементов и выводит их на экран.
 
-Console.Write("Введите кол-во элементов массива: ");
-int Size = Convert.ToInt32(Console.ReadLine());
-int i = 1;
+// Console.WriteLine("Введите первый элемент массива : ");
+// int elem1 = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите второй элемент массива : ");
+// int elem2 = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите третий элемент массива : ");
+// int elem3 = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите четвертый элемент массива : ");
+// int elem4 = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите пятый элемент массива : ");
+// int elem5 = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите шестой элемент массива : ");
+// int elem6 = Convert.ToInt32(Console.ReadLine());
+// int size = 6;
 
-void CreateRl(int arg) {
-while(i <= arg) {
+// int [] CreateArray (int arg1, int arg2, int arg3, int arg4,  int arg5, int arg6){
+//    int[] array = new int[size];
+//    array[0] = arg1 ;
+//    array[1] = arg2 ;
+//    array[2] = arg3 ;
+//    array[3] = arg4 ;
+//    array[4] = arg5 ;
+//    array[5] = arg6 ;
+//    return array;
+// }
 
-   Console.Write($"Введите {i} элемент массива: ");
-   Console.ReadLine() ;
-   
-   
-   i++;
-}
-}
-CreateRl(Size);
+// void ShowArray(int [] array) 
+// {
+//  Console.Write("Массив из ваших чисел : ");
+//  for(int i = 0; i < array.Length; i++)
+//      Console.Write(array[i] + " ");
+// }
+
+// int [] MyArray = CreateArray(elem1, elem2, elem3, elem4, elem5, elem6);
+// ShowArray(MyArray);
