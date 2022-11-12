@@ -78,3 +78,27 @@
 
 // int [] MyArray = CreateArray(elem1, elem2, elem3, elem4, elem5, elem6);
 // ShowArray(MyArray);
+
+
+int[] CreateRandomArray(int size, int minValue, int maxValue){
+   int[] array = new int[size];
+   for(int i = 0; i < size; i++)
+   array[i] = new Random().Next(minValue, maxValue +1);
+   return array;
+}
+void ShowArray(int[] array) {
+   Console.Write("Array is: \n");
+   for(int i = 0; i < array.Length; i++)
+   Console.WriteLine(array[i] +  " ");
+   Console.Write("\n");
+}
+
+
+Console.Write("Веведите кол-во элементов массива: ");
+int size = Convert.ToInt32(Console.ReadLine());
+Console.Write("Веведите минимальное значение массива: ");
+int minValue = Convert.ToInt32(Console.ReadLine());
+Console.Write("Веведите максимальное значение массива: ");
+int maxValue = Convert.ToInt32(Console.ReadLine());
+int[]NewArray = CreateRandomArray( size, minValue, maxValue);
+ShowArray(NewArray);
