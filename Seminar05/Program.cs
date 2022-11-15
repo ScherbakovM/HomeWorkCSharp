@@ -1,19 +1,19 @@
 ﻿
 // Создать и показать массив 
 
-// int[] CreateRandomArray(int size, int minValue, int maxValue){
-//    int[] array = new int[size];
-//    for(int i = 0; i < size; i++)
-//    array[i] = new Random().Next(minValue, maxValue +1);
-//    return array;
-// }
+int[] CreateRandomArray(int size, int minValue, int maxValue){
+   int[] array = new int[size];
+   for(int i = 0; i < size; i++)
+   array[i] = new Random().Next(minValue, maxValue +1);
+   return array;
+}
 
-// void ShowArray(double[] array) {
-//    Console.Write("Ваш массив : \n \n");
-// for(int i = 0; i < array.Length; i++) 
-//    Console.WriteLine(array[i] +  " ");
-//    Console.Write("\n");
-// }
+void ShowArray(int[] array) {
+   Console.Write("Ваш массив : \n \n");
+for(int i = 0; i < array.Length; i++) 
+   Console.WriteLine(array[i] +  " ");
+   Console.Write("\n");
+}
 
 
 //  Задача 34: Задайте массив заполненный случайными положительными трёхзначными числами.
@@ -79,35 +79,36 @@
 // Найдите разницу между максимальным и минимальным элементов массива.
 
 
-// double[] CreateRandomArray(int size, double minValue, double maxValue){
-//    double[] array = new double[size];
-//    for(int i = 0; i < size; i++)
-//    array[i] = new Random().Next();
-//    return array;
-// }
-
-// void ShowArray(double[] array) {
-//    Console.Write("Ваш массив : \n \n");
-// for(int i = 0; i < array.Length; i++) 
-//    Console.WriteLine(array[i] +  " ");
-//    Console.Write("\n");
-// }
-
-
 // Console.Write("Веведите кол-во элементов массива: ");
 // int size = Convert.ToInt32(Console.ReadLine());
 // Console.Write("Веведите минимальное число массива: ");
-// double minValue = Convert.ToDouble(Console.ReadLine());
+// int minValue = Convert.ToInt32(Console.ReadLine());
 // Console.Write("Веведите максимальное число массива: ");
-// double maxValue = Convert.ToDouble(Console.ReadLine());
+// int  maxValue = Convert.ToInt32(Console.ReadLine());
 
-// double[] NewArray = CreateRandomArray( size, minValue, maxValue);
+// int[] NewArray = CreateRandomArray(size, minValue, maxValue);
 // ShowArray(NewArray);
 
+// int MaxMinDigit(int[] arr){
+//    int MaxDigit = 0;
+//    int MinDigit = arr[0];
+//    int result = 0;
 
-double Num = 3.5542;
+//     for(int i = 0; i < arr.Length; i++)
+//         {
+//        if (MaxDigit <= arr[i]) {
+//             MaxDigit = arr[i];
+//                  }  
+//        if (MinDigit >= arr[i])  {
+//             MinDigit = arr[i];
+//        }               
+// }
+//    Console.WriteLine($"Минимальное значение : {MinDigit}");
+//    Console.WriteLine($"Максимальное значение : {MaxDigit}");
+//    result = MaxDigit - MinDigit;
+//    return result;     
+// }
 
+// double diference = MaxMinDigit(NewArray);
 
-double Digit = Math.Round(Num, 100);
-
-Console.Write(Digit);
+// Console.WriteLine($"Разница между минимальным и максимальным значением {diference}");
