@@ -1,0 +1,15 @@
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\bin\Debug\net6.0\Seminar08.exe
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\bin\Debug\net6.0\Seminar08.deps.json
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\bin\Debug\net6.0\Seminar08.runtimeconfig.json
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\bin\Debug\net6.0\Seminar08.dll
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\bin\Debug\net6.0\Seminar08.pdb
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\obj\Debug\net6.0\Seminar08.csproj.AssemblyReference.cache
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\obj\Debug\net6.0\Seminar08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\obj\Debug\net6.0\Seminar08.AssemblyInfoInputs.cache
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\obj\Debug\net6.0\Seminar08.AssemblyInfo.cs
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\obj\Debug\net6.0\Seminar08.csproj.CoreCompileInputs.cache
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\obj\Debug\net6.0\Seminar08.dll
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\obj\Debug\net6.0\refint\Seminar08.dll
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\obj\Debug\net6.0\Seminar08.pdb
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\obj\Debug\net6.0\Seminar08.genruntimeconfig.cache
+C:\Users\miwan\Desktop\HomeWorkCSharp\Seminar08\obj\Debug\net6.0\ref\Seminar08.dll
